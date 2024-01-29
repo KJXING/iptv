@@ -3,23 +3,23 @@
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTVPlus2.cn",CCTV+ 2 (600p) [Not 24/7]
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV1.cn",CCTV-1综合 (1080p)
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" tvg-id="CCTV1.cn",CCTV-1综合 (1080p)
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-#EXTINF:-1 tvg-id="CCTV1.cn",CCTV-1综合 (576p)
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" tvg-id="CCTV1.cn",CCTV-1综合 (576p)
 http://42.176.185.28:9901/tsfile/live/1022_1.m3u8
-#EXTINF:-1 tvg-id="CCTV2.cn",CCTV-2财经 (1080p)
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" tvg-id="CCTV2.cn",CCTV-2财经 (1080p)
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV4America.cn",CCTV-4 America (1080p)
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-#EXTINF:-1 tvg-id="CCTV4Asia.cn",CCTV-4 Asia (480p)
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" tvg-id="CCTV4Asia.cn",CCTV-4 Asia (480p)
 http://210.210.155.37/qwr9ew/s/s19/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5Plus.cn",CCTV-5+体育赛事 (1080p)
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" tvg-id="CCTV5Plus.cn",CCTV-5+体育赛事 (1080p)
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1 tvg-id="CCTV5.cn",CCTV-5体育 (1080p)
+#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" tvg-id="CCTV5.cn",CCTV-5体育 (1080p)
 http://1.85.0.62:808/hls/503/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5.cn",CCTV-5体育 (1080p)
+#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" tvg-id="CCTV5.cn",CCTV-5体育 (1080p)
 http://220.178.228.153:1935/live/cctv5/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV5.cn",CCTV-5体育 (1080p)
+#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" tvg-id="CCTV5.cn",CCTV-5体育 (1080p)
 http://223.95.111.98:5555/newlive/live/hls/5/live.m3u8
 #EXTINF:-1 tvg-id="CCTV5.cn",CCTV-5体育 (1080p)
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
@@ -29,13 +29,13 @@ http://1.85.0.62:808/hls/6/index.m3u8
 https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV8.cn",CCTV-8电视剧 (1080p)
 https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
-#EXTINF:-1 tvg-id="CCTV9.cn",CCTV-9纪录 (1080p)
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" tvg-id="CCTV9.cn",CCTV-9纪录 (1080p)
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-#EXTINF:-1 tvg-id="CCTV10.cn",CCTV-10科教 (1080p)
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" tvg-id="CCTV10.cn",CCTV-10科教 (1080p)
 https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
-#EXTINF:-1 tvg-id="CCTV13.cn",CCTV-13新闻 (1080p)
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" tvg-id="CCTV13.cn",CCTV-13新闻 (1080p)
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-#EXTINF:-1 tvg-id="CCTV13.cn",CCTV-13新闻 (1080p)
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" tvg-id="CCTV13.cn",CCTV-13新闻 (1080p)
 https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="国际",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
@@ -149,3 +149,15 @@ https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 https://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 #EXTINF:-1 group-title="测试",环球电视台
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 tvg-id="",欧美大片1
+http://epg.112114.xyz/douyu/20415
+#EXTINF:-1 tvg-id="",欧美大片2
+http://epg.112114.xyz/douyu/2793084
+#EXTINF:-1 tvg-id="",欧美大片3
+http://epg.112114.xyz/douyu/9249162
+#EXTINF:-1 tvg-id="",粤语电影2
+http://epg.112114.xyz/douyu/6566671
+#EXTINF:-1 tvg-id="",粤语电影3
+http://epg.112114.xyz/douyu/1226741
+#EXTINF:-1 tvg-id="",贝爷影厅
+http://epg.112114.xyz/douyu/252802
